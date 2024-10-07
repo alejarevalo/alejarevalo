@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Paula
+## Hi there 👋 I'm Paula Alejandra
 
 <img align='right' src="https://i.gifer.com/53Bk.gif" width="250">
 
