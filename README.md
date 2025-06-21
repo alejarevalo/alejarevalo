@@ -8,16 +8,16 @@
 
 - 👩‍🏫 &nbsp; A Colombian French language teacher who loves technology.
 
-- 🎓 &nbsp; Studying back-end with Java in Globant University.
+- 🎓 &nbsp; I'm a certified Java developer by Globant University.
 
-- 🌱 &nbsp; Learning about software development and Git/GitHub.
+- 🌱 &nbsp; I'm currrently deepening my software development skills with Spring Boot and API REST.
 
-- ✍️ &nbsp; Pursuing my dreams of ✨merging✨ languages teaching and programming.
+- ✍️ &nbsp; Pursuing my dreams of ✨merging✨ education and programming.
 
 
 <h3>🛠 Technologies</h3>
 
-- 💻 &nbsp; Java |
+- 💻 &nbsp; Java | Git | JPA | MySQL | 
 
 - 🌐 &nbsp; HTML | 
 
@@ -33,8 +33,8 @@
 
 <h3>📚 To Learn</h3>
 
-- 💻 &nbsp; Python | C++ | C | MySQ
-- 🌐 &nbsp; CSS | JavaScript | ReactJS
+- 💻 &nbsp; Python | C++ | Cloud
+- 🌐 &nbsp; CSS | JavaScript | ReactJS | Angular
 
 <!--
 <hr>
